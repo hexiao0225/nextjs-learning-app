@@ -127,6 +127,16 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 
 This project is open source and available under the [MIT License](LICENSE).
 
+## 👨‍💻 About the Author
+
+Created by **Xiao He**, a developer passionate about helping others learn modern web development.
+
+**Connect with me:**
+- 🐙 GitHub: [@hexiao0225](https://github.com/hexiao0225)
+- 💼 LinkedIn: [Xiao He](https://www.linkedin.com/in/xiaohe0225/)
+
+Feel free to reach out with questions, suggestions, or just to connect! I'd love to hear your feedback and help you on your Next.js learning journey.
+
 ## 🌟 Acknowledgments
 
 Created to help developers transition from React to Next.js. Special focus on developers familiar with React + Ant Design who want to understand Next.js's unique features.
