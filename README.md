@@ -2,6 +2,30 @@
 
 An interactive, hands-on tutorial app designed to help React developers learn Next.js. Built for developers coming from React + Ant Design backgrounds who want to master Next.js fundamentals.
 
+## 🌐 Live Demo
+
+**[👉 Try it now: https://nextjs-learning-app-gold.vercel.app](https://nextjs-learning-app-gold.vercel.app)**
+
+No installation needed - start learning Next.js right away!
+
+## 📸 Screenshots
+
+<div align="center">
+
+### Homepage
+![Homepage](screenshots/home.png)
+*Interactive lesson cards with clear navigation and learning objectives*
+
+### Lesson: App Router & File-based Routing
+![Routing Lesson](screenshots/lesson-routing.png)
+*Learn file-based routing with side-by-side comparisons and live examples*
+
+### Lesson: Server vs Client Components
+![Server vs Client Lesson](screenshots/lesson-server-client.png)
+*Interactive demos showing the difference between server and client components*
+
+</div>
+
 ## 🎯 What You'll Learn
 
 This app covers the most important Next.js concepts through interactive lessons with live code examples:
