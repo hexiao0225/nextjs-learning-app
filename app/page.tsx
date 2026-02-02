@@ -44,7 +44,7 @@ export default function Home() {
             A hands-on guide to mastering Next.js for React developers
           </p>
           <div className="mt-4 text-sm text-gray-500">
-            Coming from React + Ant Design? This tutorial is built for you! 🚀
+            Coming from React? This tutorial is built for you! 🚀
           </div>
         </header>
 

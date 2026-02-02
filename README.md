@@ -1,6 +1,6 @@
 # Next.js Learning App 🚀
 
-An interactive, hands-on tutorial app designed to help React developers learn Next.js. Built for developers coming from React + Ant Design backgrounds who want to master Next.js fundamentals.
+An interactive, hands-on tutorial app designed to help React developers learn Next.js. Built for developers who want to master Next.js fundamentals through practical examples.
 
 ## 🌐 Live Demo
 
@@ -163,7 +163,7 @@ Feel free to reach out with questions, suggestions, or just to connect! I'd love
 
 ## 🌟 Acknowledgments
 
-Created to help developers transition from React to Next.js. Special focus on developers familiar with React + Ant Design who want to understand Next.js's unique features.
+Created to help developers transition from React to Next.js with clear explanations, side-by-side comparisons, and practical examples.
 
 ## 🔗 Resources
 
