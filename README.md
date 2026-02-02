@@ -13,7 +13,7 @@ No installation needed - start learning Next.js right away!
 <div align="center">
 
 ### Homepage
-![Homepage](screenshots/home.png?v=2)
+![Homepage](screenshots/homepage.png)
 *Interactive lesson cards with clear navigation and learning objectives*
 
 ### Lesson: App Router & File-based Routing
